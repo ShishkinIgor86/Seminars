@@ -16,4 +16,5 @@
 
 **git checkout hash** - переход к коммиту по хешу
 
-**git checkout master** - вернутся в обычное состояние
+**git checkout main/master** - вернутся в обычное состояние
+
