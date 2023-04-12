@@ -24,6 +24,8 @@
 
 **git branch branch_name** - создание новой ветки с именени branch_name
 
+**git merge branch_name** - соединить изменения из branch_name с веткой, в которой находимся.
+
 # MarkDown (shot guide)
 
 **Для выделения заголовка первого уровня, достаточно поставить #**
