@@ -22,6 +22,8 @@
 
 **git checkout -b branch_name** - создание и переход на новую ветку
 
+**git branch branch_name** - создание новой ветки с именени branch_name
+
 # MarkDown (shot guide)
 
 **Для выделения заголовка первого уровня, достаточно поставить #**
