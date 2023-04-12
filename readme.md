@@ -25,6 +25,9 @@
 
 Не совсем Git (классная команда PowerShell для создания нового файла через терминал)
 **new-item <filename>** - создает файл в текущей папке
+**git checkout -b branch_name** - создание и переход на новую ветку
+
+**git branch branch_name** - создание новой ветки с именени branch_name
 
 # MarkDown (shot guide)
 
