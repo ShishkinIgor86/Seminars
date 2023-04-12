@@ -21,15 +21,17 @@
 **git diff** - разница изменений между файлом и последним коммитом
 
 **git branch** - просмотр созданных веток
-**git **
 
 Не совсем Git (классная команда PowerShell для создания нового файла через терминал)
 **new-item <filename>** - создает файл в текущей папке
+
 **git checkout -b branch_name** - создание и переход на новую ветку
 
 **git branch branch_name** - создание новой ветки с именени branch_name
 
 **git merge branch_name** - соединить изменения из branch_name с веткой, в которой находимся.
+
+P.S. Файл readme1.md создан с помощью new-item.
 
 # MarkDown (shot guide)
 
